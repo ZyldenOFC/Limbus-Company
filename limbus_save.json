@@ -1,0 +1,1082 @@
+{
+  "estado_inicial": "limbo_v1",
+  "debug_lunacy": false,
+  "nome": "Yi Sang",
+  "lunacy": 0,
+  "vitorias": 0,
+  "identidades": [
+    {
+      "nome": "LCB Sinner Yi Sang",
+      "raridade": "00",
+      "hp": 72,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 4,
+      "velocidade_max": 8,
+      "resistencias": {
+        "Slash": 2.0,
+        "Pierce": 0.5,
+        "Blunt": 1.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Yi Sang",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Yi Sang",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Yi Sang"
+    },
+    {
+      "nome": "LCB Sinner Faust",
+      "raridade": "00",
+      "hp": 84,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 2,
+      "velocidade_max": 4,
+      "resistencias": {
+        "Slash": 2.0,
+        "Pierce": 0.5,
+        "Blunt": 1.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Faust",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Faust",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Faust"
+    },
+    {
+      "nome": "LCB Sinner Don Quixote",
+      "raridade": "00",
+      "hp": 66,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 3,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 1.0,
+        "Pierce": 0.5,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Don Quixote",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Don Quixote",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Don Quixote"
+    },
+    {
+      "nome": "LCB Sinner Ryōshū",
+      "raridade": "00",
+      "hp": 66,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 3,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Ryōshū",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Ryōshū",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Ryōshū"
+    },
+    {
+      "nome": "LCB Sinner Meursault",
+      "raridade": "00",
+      "hp": 90,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 2,
+      "velocidade_max": 3,
+      "resistencias": {
+        "Slash": 1.0,
+        "Pierce": 2.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Meursault",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Meursault",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Meursault"
+    },
+    {
+      "nome": "LCB Sinner Hong Lu",
+      "raridade": "00",
+      "hp": 66,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 3,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 2.0,
+        "Pierce": 1.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Hong Lu",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Hong Lu",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Hong Lu"
+    },
+    {
+      "nome": "LCB Sinner Heathcliff",
+      "raridade": "00",
+      "hp": 78,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 2,
+      "velocidade_max": 5,
+      "resistencias": {
+        "Slash": 2.0,
+        "Pierce": 1.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Heathcliff",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Heathcliff",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Heathcliff"
+    },
+    {
+      "nome": "LCB Sinner Ishmael",
+      "raridade": "00",
+      "hp": 78,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 5,
+      "velocidade_max": 8,
+      "resistencias": {
+        "Slash": 2.0,
+        "Pierce": 1.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Ishmael",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Ishmael",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Ishmael"
+    },
+    {
+      "nome": "LCB Sinner Rodion",
+      "raridade": "00",
+      "hp": 78,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 2,
+      "velocidade_max": 5,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 2.0,
+        "Blunt": 1.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Rodion",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Rodion",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Rodion"
+    },
+    {
+      "nome": "LCB Sinner Sinclair",
+      "raridade": "00",
+      "hp": 60,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 3,
+      "velocidade_max": 7,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 2.0,
+        "Blunt": 1.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Sinclair",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Sinclair",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Sinclair"
+    },
+    {
+      "nome": "LCB Sinner Outis",
+      "raridade": "00",
+      "hp": 60,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 3,
+      "velocidade_max": 7,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Outis",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Outis",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Outis"
+    },
+    {
+      "nome": "LCB Sinner Gregor",
+      "raridade": "00",
+      "hp": 72,
+      "atk": 18,
+      "defesa": 14,
+      "velocidade_min": 3,
+      "velocidade_max": 7,
+      "resistencias": {
+        "Slash": 1.0,
+        "Pierce": 0.5,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Golpe Básico 1 - Gregor",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 4,
+          "moedas": 1,
+          "poder_moeda": 3,
+          "efeito": "",
+          "valor": 0
+        },
+        {
+          "nome": "Golpe Básico 2 - Gregor",
+          "tipo": "Blunt",
+          "afinidade": "Gloom",
+          "poder": 5,
+          "moedas": 1,
+          "poder_moeda": 4,
+          "efeito": "",
+          "valor": 0
+        }
+      ],
+      "passiva_nome": "Passiva LCB",
+      "passiva_desc": "Identidade base inicial do Pecador",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Gregor"
+    },
+    {
+      "nome": "Liu Association South Section 3",
+      "raridade": "000",
+      "hp": 160,
+      "atk": 29,
+      "defesa": 17,
+      "velocidade_min": 5,
+      "velocidade_max": 9,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.5,
+        "Blunt": 1.0
+      },
+      "skills": [
+        {
+          "nome": "Scorching Gaze",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Burn",
+          "valor": 3
+        },
+        {
+          "nome": "Flame Fist",
+          "tipo": "Blunt",
+          "afinidade": "Wrath",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Burn",
+          "valor": 4
+        },
+        {
+          "nome": "Blazing Palm",
+          "tipo": "Pierce",
+          "afinidade": "Wrath",
+          "poder": 7,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Burn",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Incinerating Arts",
+      "passiva_desc": "Ganha Burn ao acertar ataques",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Ryōshū"
+    },
+    {
+      "nome": "W Corp. L2 Cleanup Agent",
+      "raridade": "00",
+      "hp": 150,
+      "atk": 23,
+      "defesa": 17,
+      "velocidade_min": 4,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 1.0,
+        "Pierce": 2.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Energy Cycle",
+          "tipo": "Blunt",
+          "afinidade": "Envy",
+          "poder": 4,
+          "moedas": 2,
+          "poder_moeda": 3,
+          "efeito": "Charge",
+          "valor": 3
+        },
+        {
+          "nome": "Warp Cleaver",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Charge",
+          "valor": 4
+        },
+        {
+          "nome": "Singularity",
+          "tipo": "Slash",
+          "afinidade": "Gluttony",
+          "poder": 7,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Charge",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Waste Extraction",
+      "passiva_desc": "Ganha Charge ao acertar ataques",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Evade",
+      "contra_ataque": null,
+      "pecador": "Faust"
+    },
+    {
+      "nome": "Edgar Family Butler",
+      "raridade": "00",
+      "hp": 160,
+      "atk": 25,
+      "defesa": 18,
+      "velocidade_min": 4,
+      "velocidade_max": 7,
+      "resistencias": {
+        "Slash": 1.0,
+        "Pierce": 0.5,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Clean Sweep",
+          "tipo": "Slash",
+          "afinidade": "Gluttony",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Bleed",
+          "valor": 3
+        },
+        {
+          "nome": "Chop",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Bleed",
+          "valor": 4
+        },
+        {
+          "nome": "Final Cleaning",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 8,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Bleed",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Butler Discipline",
+      "passiva_desc": "Ganha Bleed ao atacar",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Ishmael"
+    },
+    {
+      "nome": "Wild Hunt Heathcliff",
+      "raridade": "000",
+      "hp": 170,
+      "atk": 27,
+      "defesa": 20,
+      "velocidade_min": 5,
+      "velocidade_max": 9,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 1.5
+      },
+      "skills": [
+        {
+          "nome": "Bat of a Lash",
+          "tipo": "Blunt",
+          "afinidade": "Wrath",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Rupture",
+          "valor": 3
+        },
+        {
+          "nome": "Batter",
+          "tipo": "Blunt",
+          "afinidade": "Sloth",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Rupture",
+          "valor": 4
+        },
+        {
+          "nome": "Deeper Wound",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 8,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Rupture",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Wild Hunt",
+      "passiva_desc": "Causa dano extra com Rupture",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Counter",
+      "contra_ataque": "Contra-ataque de Wild Hunt Heathcliff",
+      "pecador": "Heathcliff"
+    },
+    {
+      "nome": "W Corp. L2 Cleanup Agent",
+      "raridade": "00",
+      "hp": 150,
+      "atk": 23,
+      "defesa": 17,
+      "velocidade_min": 4,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 1.0,
+        "Pierce": 2.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Energy Cycle",
+          "tipo": "Blunt",
+          "afinidade": "Envy",
+          "poder": 4,
+          "moedas": 2,
+          "poder_moeda": 3,
+          "efeito": "Charge",
+          "valor": 3
+        },
+        {
+          "nome": "Warp Cleaver",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Charge",
+          "valor": 4
+        },
+        {
+          "nome": "Singularity",
+          "tipo": "Slash",
+          "afinidade": "Gluttony",
+          "poder": 7,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Charge",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Waste Extraction",
+      "passiva_desc": "Ganha Charge ao acertar ataques",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Evade",
+      "contra_ataque": null,
+      "pecador": "Faust"
+    },
+    {
+      "nome": "Cinq Association East Section 3",
+      "raridade": "000",
+      "hp": 165,
+      "atk": 26,
+      "defesa": 18,
+      "velocidade_min": 5,
+      "velocidade_max": 8,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Lunge",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Poise",
+          "valor": 3
+        },
+        {
+          "nome": "Dual Lunge",
+          "tipo": "Pierce",
+          "afinidade": "Pride",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Poise",
+          "valor": 4
+        },
+        {
+          "nome": "Dual-Lens Strike",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 7,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Poise",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Poised Blade",
+      "passiva_desc": "Ganha Poise ao vencer um Clash",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Evade",
+      "contra_ataque": null,
+      "pecador": "Don Quixote"
+    },
+    {
+      "nome": "Kurokumo Clan Wakashu",
+      "raridade": "00",
+      "hp": 155,
+      "atk": 24,
+      "defesa": 17,
+      "velocidade_min": 5,
+      "velocidade_max": 8,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Slash",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Poise",
+          "valor": 3
+        },
+        {
+          "nome": "Raging Thorn",
+          "tipo": "Pierce",
+          "afinidade": "Pride",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Poise",
+          "valor": 4
+        },
+        {
+          "nome": "Cloud Cutter",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 7,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Poise",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Kurokumo Arts",
+      "passiva_desc": "Ganha Poise ao atacar",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Counter",
+      "contra_ataque": "Contra-ataque de Kurokumo Clan Wakashu",
+      "pecador": "Hong Lu"
+    },
+    {
+      "nome": "Dead Rabbits Boss",
+      "raridade": "00",
+      "hp": 180,
+      "atk": 25,
+      "defesa": 21,
+      "velocidade_min": 3,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 1.5,
+        "Pierce": 1.0,
+        "Blunt": 0.5
+      },
+      "skills": [
+        {
+          "nome": "Heavy Swing",
+          "tipo": "Blunt",
+          "afinidade": "Wrath",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Bleed",
+          "valor": 2
+        },
+        {
+          "nome": "Crushing Blow",
+          "tipo": "Blunt",
+          "afinidade": "Sloth",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Bleed",
+          "valor": 3
+        },
+        {
+          "nome": "Execution",
+          "tipo": "Blunt",
+          "afinidade": "Pride",
+          "poder": 8,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Bleed",
+          "valor": 5
+        }
+      ],
+      "passiva_nome": "Ruthless",
+      "passiva_desc": "Causa dano extra contra alvos sangrando",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Counter",
+      "contra_ataque": "Contra-ataque de Dead Rabbits Boss",
+      "pecador": "Meursault"
+    },
+    {
+      "nome": "Wild Hunt Heathcliff",
+      "raridade": "000",
+      "hp": 170,
+      "atk": 27,
+      "defesa": 20,
+      "velocidade_min": 5,
+      "velocidade_max": 9,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 1.5
+      },
+      "skills": [
+        {
+          "nome": "Bat of a Lash",
+          "tipo": "Blunt",
+          "afinidade": "Wrath",
+          "poder": 5,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Rupture",
+          "valor": 3
+        },
+        {
+          "nome": "Batter",
+          "tipo": "Blunt",
+          "afinidade": "Sloth",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Rupture",
+          "valor": 4
+        },
+        {
+          "nome": "Deeper Wound",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 8,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Rupture",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Wild Hunt",
+      "passiva_desc": "Causa dano extra com Rupture",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Counter",
+      "contra_ataque": "Contra-ataque de Wild Hunt Heathcliff",
+      "pecador": "Heathcliff"
+    },
+    {
+      "nome": "The One Who Grips",
+      "raridade": "000",
+      "hp": 175,
+      "atk": 28,
+      "defesa": 22,
+      "velocidade_min": 3,
+      "velocidade_max": 6,
+      "resistencias": {
+        "Slash": 0.5,
+        "Pierce": 1.0,
+        "Blunt": 2.0
+      },
+      "skills": [
+        {
+          "nome": "Conviction",
+          "tipo": "Slash",
+          "afinidade": "Wrath",
+          "poder": 6,
+          "moedas": 2,
+          "poder_moeda": 4,
+          "efeito": "Burn",
+          "valor": 3
+        },
+        {
+          "nome": "Command",
+          "tipo": "Slash",
+          "afinidade": "Pride",
+          "poder": 7,
+          "moedas": 2,
+          "poder_moeda": 5,
+          "efeito": "Burn",
+          "valor": 4
+        },
+        {
+          "nome": "Grand Inquisition",
+          "tipo": "Slash",
+          "afinidade": "Gloom",
+          "poder": 9,
+          "moedas": 3,
+          "poder_moeda": 6,
+          "efeito": "Burn",
+          "valor": 6
+        }
+      ],
+      "passiva_nome": "Guiding Hand",
+      "passiva_desc": "Ganha Burn ao atacar",
+      "uptie": 4,
+      "nivel": 65,
+      "sp": 0,
+      "tipo_defesa": "Guard",
+      "contra_ataque": null,
+      "pecador": "Outis"
+    }
+  ],
+  "equipe": [
+    "LCB Sinner Yi Sang",
+    "LCB Sinner Faust"
+  ],
+  "identidade_ativa": "LCB Sinner Yi Sang"
+}
